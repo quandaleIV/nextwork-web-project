@@ -53,7 +53,7 @@ To get this project up and running on your local machine, follow these steps:
 <br>
 
 ## Contact
-If you have any questions or comments about the NextWork Web Project, please contact:
+If you have any questions or comments about the project, please contact:
 Aryan Kumar - aryan77k@gmail.com(mailto:aryan77k@gmail.com)
 
 <br>
